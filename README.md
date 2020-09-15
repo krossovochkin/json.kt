@@ -27,3 +27,7 @@ MinifiedJsonFormatter().format(json)
 # Tests
 
 Test results for corner cases one can see [here](https://github.com/krossovochkin/JSONTestSuite)
+
+Comparison with Gson in corner-cases tests:
+
+!{](https://raw.githubusercontent.com/krossovochkin/json.kt/master/image/Screenshot_1.png)
