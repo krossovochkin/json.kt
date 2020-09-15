@@ -30,4 +30,4 @@ Test results for corner cases one can see [here](https://github.com/krossovochki
 
 Comparison with Gson in corner-cases tests:
 
-!{](https://raw.githubusercontent.com/krossovochkin/json.kt/master/image/Screenshot_1.png)
+![](https://raw.githubusercontent.com/krossovochkin/json.kt/master/image/Screenshot_1.png)
